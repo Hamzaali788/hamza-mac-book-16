@@ -503,7 +503,7 @@ nav ul li{
     }
 
     .banner{
-        height: 110vh;
+        height: 120vh;
     }
 
 }
@@ -603,8 +603,26 @@ nav ul li{
         display: none;
     }
 
-    .who-row{
+    .who .who-row{
         width: 100%;
+        margin-left: 0rem;
+        margin-right: 0rem;
+    }
+
+    .who .who-row a{
+        font-size: 2rem;
+    }
+
+    .dis-bg-2 h1{
+        font-size: 1.8rem;
+    }
+
+    .dis-bg-2 h2{
+        font-size: 1.5rem;
+    }
+
+    .ratina .rati-box h1{
+        font-size: 2rem;
     }
 
 
@@ -657,12 +675,13 @@ nav ul li{
     }
 
     .ratina .rati-box h1{
-        font-size: 3rem;
+        font-size: 2.5rem;
     }
 
     .ratina .rati-box h2{
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
+
 
     .chirs-1 .ch1 {
         width: 100%;
@@ -672,11 +691,11 @@ nav ul li{
     }
 
     .chirs-1 .ch1 q{
-       font-size: 3rem;
+       font-size: 2.2rem;
     }
 
     .amc-box .amc h1{
-        font-size: 2.2rem;
+        font-size: 1.8rem;
     }
 
     .display .dis-bg-2{
@@ -685,7 +704,7 @@ nav ul li{
     }
 
     .banner{
-        height: 100vh;
+        height: 65vh;
     }
 
 }    
@@ -697,8 +716,48 @@ nav ul li{
     }
 
     .banner{
-        height: 100vh;
+        height: 55vh;
     }
 
+    .header a{
+        font-size: 1.5rem;
+    }
+
+    .banner .banner-row h3{
+        font-size: 2rem;
+    }
+
+    .banner .banner-row h1{
+        font-size: 3.5rem;
+    }
+
+    .who-row p{
+        font-size: 1.2rem;
+    }
+
+    .chirs-1 .ch1 q{
+        font-size: 1.8rem;
+     }
+ 
+     .amc-box .amc h1{
+         font-size: 1.4rem;
+     }
+ 
+     .display .dis-bg-2{
+         margin-left: 1rem;
+         margin-right: 1rem;
+     }
+
+     .who .who-row a{
+        font-size: 1.8rem;
+    }
+
+    .dis-bg-2 h1{
+        font-size: 1.4rem;
+    }
+
+    .dis-bg-2 h2{
+        font-size: 1.2rem;
+    }
     
 }   
