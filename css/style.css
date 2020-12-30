@@ -685,7 +685,7 @@ nav ul li{
     }
 
     .banner{
-        height: 60vh;
+        height: 80vh;
     }
 
 }    
@@ -695,4 +695,10 @@ nav ul li{
     html{
         font-size: 6px;
     }
+
+    .banner{
+        height: 70vh;
+    }
+
+    
 }   
